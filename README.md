@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a postgraduate student at the University of Cambridge.
 - 🌱 I’m currently working on Federated Learning and AI Alignment.
-- 👯 I’m looking to collaborate or internship on privacy for LLMs
+- 👯 I’m looking to collaboration or internship on privacy for LLMs or related topics.
 - 📫 How to reach me: wz341[AT]cam.ac.uk or zhaowrenee[AT]gmail.com
 - 😄 Pronouns: She/Her
 
