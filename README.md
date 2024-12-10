@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-- 🔭 I’m a PhD student at the University of Cambridge advised by Prof. [Nic Lane](http://niclane.org/), and a visiting researcher at Vector Institute advised by [Prof. Colin Raffel](https://colinraffel.com/). Previously, I got my MPhil degree in Advanced Computer Science from the University of Cambridge.
+- 🔭 I’m a PhD student at the University of Cambridge advised by Prof. [Nic Lane](http://niclane.org/), and a visiting researcher at Vector Institute advised by Prof.[Colin Raffel](https://colinraffel.com/). Previously, I got my MPhil degree in Advanced Computer Science from the University of Cambridge.
 - 🌱 I'm currently working on modular large language models, data quality and curation, and AI safety. 
 - 👯 I'm looking for collaboration or internship opportunities on related topics. 
 - 📫 How to reach me: wz341[AT]cam.ac.uk or zhaowrenee[AT]gmail.com
